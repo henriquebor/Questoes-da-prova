@@ -10,7 +10,7 @@ namespace Questão___4
     {
         static void Main(string[] args)
         {
-        // calcular a equação horária do carro
+        // Resolução do problema
 
             /*
                 equação horária do carro:
