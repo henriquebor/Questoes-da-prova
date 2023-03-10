@@ -1,0 +1,14 @@
+C:\Users\DUDU1\source\repos\Prova\Prova do estágio\bin\Debug\Prova do estágio.exe.config
+C:\Users\DUDU1\source\repos\Prova\Prova do estágio\bin\Debug\Prova do estágio.exe
+C:\Users\DUDU1\source\repos\Prova\Prova do estágio\bin\Debug\Prova do estágio.pdb
+C:\Users\DUDU1\source\repos\Prova\Prova do estágio\obj\Debug\Prova do estágio.csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\Prova\Prova do estágio\obj\Debug\Prova do estágio.csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\Prova\Prova do estágio\obj\Debug\Prova do estágio.exe
+C:\Users\DUDU1\source\repos\Prova\Prova do estágio\obj\Debug\Prova do estágio.pdb
+C:\Users\DUDU1\source\repos\Prova\Questão - 1\bin\Debug\Prova do estágio.exe.config
+C:\Users\DUDU1\source\repos\Prova\Questão - 1\bin\Debug\Prova do estágio.exe
+C:\Users\DUDU1\source\repos\Prova\Questão - 1\bin\Debug\Prova do estágio.pdb
+C:\Users\DUDU1\source\repos\Prova\Questão - 1\obj\Debug\Prova do estágio.csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\Prova\Questão - 1\obj\Debug\Prova do estágio.csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\Prova\Questão - 1\obj\Debug\Prova do estágio.exe
+C:\Users\DUDU1\source\repos\Prova\Questão - 1\obj\Debug\Prova do estágio.pdb

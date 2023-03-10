@@ -1,0 +1,7 @@
+C:\Users\DUDU1\source\repos\Prova\Questão - 2\bin\Debug\Questão - 2.exe.config
+C:\Users\DUDU1\source\repos\Prova\Questão - 2\bin\Debug\Questão - 2.exe
+C:\Users\DUDU1\source\repos\Prova\Questão - 2\bin\Debug\Questão - 2.pdb
+C:\Users\DUDU1\source\repos\Prova\Questão - 2\obj\Debug\Questão - 2.csproj.AssemblyReference.cache
+C:\Users\DUDU1\source\repos\Prova\Questão - 2\obj\Debug\Questão - 2.csproj.CoreCompileInputs.cache
+C:\Users\DUDU1\source\repos\Prova\Questão - 2\obj\Debug\Questão - 2.exe
+C:\Users\DUDU1\source\repos\Prova\Questão - 2\obj\Debug\Questão - 2.pdb
